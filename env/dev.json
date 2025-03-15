@@ -1,0 +1,6 @@
+{
+  "PORT": 3000,
+  "MONGO_URI": "mongodb://127.0.0.1:27017/batchingOrders",
+  "GOOGLE_MAPS_API_KEY": "DUMMY_KEY",
+  "ORDER_BATCH_INTERVAL": "*/1 * * * *"
+}
